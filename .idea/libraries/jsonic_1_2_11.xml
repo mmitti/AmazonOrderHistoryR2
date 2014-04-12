@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsonic-1.2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jsonic-1.2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
